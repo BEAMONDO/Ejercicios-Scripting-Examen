@@ -1,1 +1,0 @@
-# Ejercicios-Scripting-Examen
